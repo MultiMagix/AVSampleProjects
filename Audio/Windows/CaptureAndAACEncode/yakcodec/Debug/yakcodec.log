@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  yakaudio.cpp
+D:\AudioVideoInternals\AACEncodeFromSuresh\AACEncode\yakcodec\yakaudio.cpp(211,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+stdafx.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  yakcodec.vcxproj -> D:\AudioVideoInternals\AACEncodeFromSuresh\AACEncode\Debug\yakcodec.exe
