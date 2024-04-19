@@ -10,8 +10,8 @@ AVSample Projects aims to provide clear examples and thorough documentation to t
 
 - [Getting Started](#getting-started)
 - [Modules](#modules)
-  - [Audio Basics](#audio-basics)
-  - [Video Basics](#video-basics)
+  - [Audio Basics (Windows)](#audio-basics-windows)
+  - [Video Basics (Linux)](#video-basics-linux)
 - [Installation](#installation)
 - [Usage Examples](#usage-examples)
 - [Contributing](#contributing)
@@ -23,6 +23,13 @@ AVSample Projects aims to provide clear examples and thorough documentation to t
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
+**For Audio Basics (Windows):**
+- Windows OS (7/8/10)
+- MSVC 2020 or later
 
-What things you need to install the software and how to install them:
+**For Video Basics (Linux):**
+- Ubuntu 16 or Later
+
+
+
 
