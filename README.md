@@ -30,6 +30,16 @@ These instructions will get you a copy of the project up and running on your loc
 **For Video Basics (Linux):**
 - Ubuntu 16 or Later
 
+## Audio Basics (Windows)
+- Raw Audio Capture with PortAudio - Develop an application to capture raw audio data using the PortAudio library. This project allows users to record audio from input devices in real-time, save raw audio data, and 
+  learn about audio stream handling.
+- Converting Raw Audio to High-Quality AMR Format - Create a tool that converts raw audio files into the Adaptive Multi-Rate (AMR) format to enhance audio quality and reduce file size, suitable for voice recordings.
+- Audio Capture And AMR Encoding in Real-time - Build an application that captures audio in real-time and encodes it into the AMR format directly, optimizing for mobile communications.
+- Capturing Audio with Port Audio and AAC Encoding using FFmpeg - Implement a system to capture audio using PortAudio and encode it in real-time using the Advanced Audio Coding (AAC) format through FFmpeg, aimed at 
+  achieving high-quality audio streams.
+- PCM Data Mixing Algorithm - Develop an algorithm to mix multiple Pulse Code Modulation (PCM) audio streams into a single output stream, useful for audio editing and DJ software.
+- RTSP Audio Streaming Server using LIVE555 - Set up a Real Time Streaming Protocol (RTSP) server using the LIVE555 multimedia library to stream audio over the internet or local networks.
+
 
 
 
