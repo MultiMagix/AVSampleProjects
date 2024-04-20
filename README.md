@@ -40,12 +40,13 @@ This module covers the fundamentals of audio processing on Windows platforms, in
 
 #### List of Audio Projects
 
-1. **RTSP Audio Streaming Server using LIVE555** - Set up an RTSP server to stream audio using LIVE555, suitable for internet or local network broadcasting.
-2. **PCM Data Mixing Algorithm** - Develop an algorithm for mixing multiple PCM audio streams into one output, ideal for creating mix tapes or composite audio tracks.
-3. **Capturing Audio with Port Audio and AAC Encoding using FFmpeg** - Implement a system to capture and encode audio in real-time using PortAudio and AAC format for high-quality audio streaming.
-4. **Audio Capture And AMR Encoding in Real-time** - Build a tool for real-time audio capture and encoding into AMR format, optimizing for mobile communications.
-5. **Converting Raw Audio to High-Quality AMR Format** - Convert raw audio files into AMR format to enhance audio quality and compress data for efficient storage.
-6. **Raw Audio Capture with PortAudio** - Develop an application to record raw audio data directly from input devices using PortAudio, perfect for raw audio processing.
+1. **Raw Audio Capture with PortAudio** - Develop an application to capture raw audio data using the PortAudio library. This project allows users to record audio from input devices in real-time, save raw audio data, and learn about audio stream handling.
+2. **Converting Raw Audio to High-Quality AMR Format** - Create a tool that converts raw audio files into the Adaptive Multi-Rate (AMR) format to enhance audio quality and reduce file size, suitable for voice recordings.
+3. **Audio Capture And AMR Encoding in Real-time** - Build an application that captures audio in real-time and encodes it into the AMR format directly, optimizing for mobile communications.
+4. **Capturing Audio with Port Audio and AAC Encoding using FFmpeg** - Implement a system to capture audio using PortAudio and encode it in real-time using the Advanced Audio Coding (AAC) format through FFmpeg, aimed at achieving high-quality audio streams.
+5. **PCM Data Mixing Algorithm** - Develop an algorithm to mix multiple Pulse Code Modulation (PCM) audio streams into a single output stream, useful for audio editing and DJ software.
+6. **RTSP Audio Streaming Server using LIVE555** - Set up a Real Time Streaming Protocol (RTSP) server using the LIVE555 multimedia library to stream audio over the internet or local networks.
+
 
 ## Video Basics (Linux)
 
