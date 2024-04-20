@@ -40,7 +40,7 @@ These instructions will get you a copy of the project up and running on your loc
 - PCM Data Mixing Algorithm - Develop an algorithm to mix multiple Pulse Code Modulation (PCM) audio streams into a single output stream, useful for audio editing and DJ software.
 - RTSP Audio Streaming Server using LIVE555 - Set up a Real Time Streaming Protocol (RTSP) server using the LIVE555 multimedia library to stream audio over the internet or local networks.
 
-### Video Basics (Linux)
+## Video Basics (Linux)
 
 This module includes basic and advanced video processing techniques using FFMPEG on Linux platforms:
 
