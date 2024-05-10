@@ -69,10 +69,7 @@ This module includes basic and advanced video processing techniques using FFMPEG
 #### Installation
 
 ## Video Basics (Linux)
-Clone the repo, go to AVSampleProjects/Video
-To build each project, use CMakeLists.txt associated with that folder.
-Before using CMaleLists.txt, modify the PKG_CONFIG_PATH to link to ffmpge libs and headers properly 
-Watch this video https://www.youtube.com/watch?v=UGJQo1XG1iM for more details on building FFMPEG on Ubuntu from sources.
+Clone the repo, go to AVSampleProjects/Video. To build each project, use CMakeLists.txt associated with that folder. Before using CMaleLists.txt, modify the PKG_CONFIG_PATH to link to ffmpge libs and headers properly. Watch this video https://www.youtube.com/watch?v=UGJQo1XG1iM for more details on building FFMPEG on Ubuntu from sources.
 Now 
  - mkdir build
  - cd build
