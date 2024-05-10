@@ -66,6 +66,17 @@ This module includes basic and advanced video processing techniques using FFMPEG
 5. **FFMPEG Camera Frames to RGB Images** - Set up a process to convert live camera frames into RGB images using FFMPEG, enabling detailed image processing and analysis.
 
 
+#### Installation
 
-
+## Video Basics (Linux)
+Clone the repo, go to AVSampleProjects/Video
+To build each project, use CMakeLists.txt associated with that folder.
+Before using CMaleLists.txt, modify the PKG_CONFIG_PATH to link to ffmpge libs and headers properly 
+Watch this video https://www.youtube.com/watch?v=UGJQo1XG1iM for more details on building FFMPEG on Ubuntu from sources.
+Now 
+ - mkdir build
+ - cd build
+ - cmake ..
+ - make
+   Run the application
 
