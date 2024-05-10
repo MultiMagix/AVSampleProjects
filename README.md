@@ -13,10 +13,6 @@ AVSample Projects aims to provide clear examples and thorough documentation to t
   - [Audio Basics (Windows)](#audio-basics-windows)
   - [Video Basics (Linux)](#video-basics-linux)
 - [Installation](#installation)
-- [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Getting Started
 
@@ -77,3 +73,5 @@ Now
  - make
    Run the application
 
+## Audio Basics (Windows)
+Run the solution files usign MSVC.
